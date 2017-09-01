@@ -1,4 +1,4 @@
-# Sticker-Book
+Sticker-Book
 
 Sticker Book is a Java application where you can place stickers on a page, save
   your designs, and interact with your stickers.
