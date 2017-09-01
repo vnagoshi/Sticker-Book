@@ -3,6 +3,11 @@ Sticker-Book
 Sticker Book is a Java application where you can place stickers on a page, save
   your designs, and interact with your stickers.
 
+Installation:
+  To install Sticker Book, download "Sticker Book.jar" and the CG and SOUNDS
+  folders. Put them all in the same directory, then run "Sticker Book.jar".
+  Sticker Book requires Java to run.
+
 User Guide:
   Placing a Sticker:
     To place a sticker, open the sticker palate (top leftmost button) then select 
